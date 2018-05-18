@@ -16,7 +16,8 @@
     return "HUH?! SPEAK UP, SONNY!"
   elsif string == string.upcase
     return "NO, NOT SINCE 1938!"
-  else 
+  elsif string == "I LOVE YOU GRANDMA!"
+    return "I LOVE YOU TOO PUMPKIN!"
   
   
   
